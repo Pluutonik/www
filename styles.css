@@ -3971,5 +3971,7 @@
                     width: calc(33.33333% + 2.91rem);
                 }
             }
-        </style>
+  #doc-title .name {
+font-size: 21px;
   
+}

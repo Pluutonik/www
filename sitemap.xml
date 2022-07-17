@@ -6,7 +6,6 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
-<<<<<<< HEAD
 
 <url>
   <loc>https://mypluto.co/</loc>
@@ -19,12 +18,10 @@
 <url>
   <loc>https://mypluto.co/collab.html</loc>
   <lastmod>2022-07-14T20:51:06+00:00</lastmod>
-=======
-
+</url>
 <url>
-  <loc>https://mypluto.co/</loc>
+  <loc>https://mypluto.co/framework.html</loc>
   <lastmod>2022-07-14T20:51:06+00:00</lastmod>
->>>>>>> f609fbb9dbce4097265d376960202a0900a415f5
 </url>
 
 
